@@ -189,5 +189,3 @@ SPI Received: 55
 
 **Ranganatha Chawan**  
 🔗 GitHub: [Ranganatha478](https://github.com/Ranganatha478)
-
-Would you like me to also design a **diagram (visual flowchart)** of the SPI communication sequence so your README has both text and visuals?
